@@ -23,10 +23,9 @@ Built on top of **LangGraph**, **Groq LLM**, and **LangChain** for fast, scalabl
 ## Demo / Screenshots
 
 ### Langgraph Interface  
-![Chatbot Interface](https://github.com/iqrai1/End_to_End_langGraph_chatbot_with_Web_tool/blob/main/Screenshot_1)
-
+![Langsmith Interface](https://github.com/iqrai1/blogagentic_end_to_end_langgraph/blob/main/assets/langgraph_studio.png)
 ### Postman FastAPI Interface 
-![LangGraph Architecture](https://github.com/iqrai1/End_to_End_langGraph_chatbot_with_Web_tool/blob/main/Screenshot_2)
+![Postman Architecture](https://github.com/iqrai1/blogagentic_end_to_end_langgraph/blob/main/assets/Postman_api.png)
 
 ---
 
